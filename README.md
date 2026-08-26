@@ -1,7 +1,10 @@
 <div align="center">
 
 # 🤖 AI Bootcamp
-Learn. Build. Grow.
+
+**From "hello world" to neural nets.**
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Learning+AI+one+lab+at+a+time;Breaking+things+to+understand+them;Turning+errors+into+lessons;Code.+Break.+Learn.+Repeat.)
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Learning-brightgreen)
