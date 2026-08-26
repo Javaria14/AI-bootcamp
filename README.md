@@ -1,8 +1,7 @@
 <div align="center">
 
 # 🤖 AI Bootcamp
-
-**My learning journey in AI & Machine Learning, one lab at a time.**
+Learn. Build. Grow.
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Learning-brightgreen)
