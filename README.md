@@ -2,7 +2,7 @@
 
 # 🤖 AI Bootcamp
 
-**My learning journey in AI & Machine Learning — one lab at a time.**
+**My learning journey in AI & Machine Learning, one lab at a time.**
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Learning-brightgreen)
@@ -12,83 +12,128 @@
 
 ---
 
-## 👋 What is this?
+This repository contains my labs, projects, and learning progress throughout my AI/ML Bootcamp.
 
-This is where I keep everything I build while learning AI — notebooks, code, small experiments, and notes.
+It includes:
 
-I'm not just reading about AI. I'm trying things, breaking things, and figuring out how they work.
-
----
-
-## 🗂️ What's inside
-
-| Folder | Topic |
-|---|---|
-| `ml/` | Machine Learning basics |
-| `deep/` | Deep Learning & neural networks |
-| `llm/` | Large Language Models & Generative AI |
-| `rag/` | Retrieval-Augmented Generation |
-| `agents/` | AI Agents |
-
-Each folder has its own notebook, code, and notes.
+- Notebooks and code from each lab
+- Small experiments and tests
+- Notes on what I learned
+- Datasets used for practice
 
 ---
 
-## 📊 Datasets I practice with
+## 📚 Concepts Covered
 
-<div align="center">
-
-❤️ Heart Disease &nbsp;|&nbsp; 🌸 Iris &nbsp;|&nbsp; 🚢 Titanic &nbsp;|&nbsp; 🚗 Car Price &nbsp;|&nbsp; 💼 Hiring
-
-</div>
-
-More will be added as I go!
-
----
-
-## 🎮 Fun stats
-
-<div align="center">
-
-| 🧠 Labs Done | ☕ Coffee Used | 🐛 Bugs Fixed | 💡 "Aha" Moments |
-|:---:|:---:|:---:|:---:|
-| Growing | Lots | Too many to count | Daily |
-
-</div>
+- Python for AI/ML
+- Data preprocessing and cleaning
+- Exploratory Data Analysis (EDA)
+- Feature engineering
+- Supervised and unsupervised learning
+- Classification and regression
+- Model evaluation and performance metrics
+- Hyperparameter tuning
+- Dimensionality reduction and PCA
+- Deep Learning fundamentals
+- Neural Networks and CNN concepts
+- Large Language Models (LLMs)
+- Prompt engineering
+- RAG (Retrieval-Augmented Generation)
+- AI agents and agent-based workflows
+- REST APIs and AI application development
 
 ---
 
-## 🛠️ Tools I use
+## 🛠️ Tools & Technologies
 
-<div align="center">
+**Programming**
+- Python
+- SQL
 
-![Python](https://img.shields.io/badge/-Python-000?logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-000?logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-000?logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?logo=scikitlearn)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?logo=tensorflow)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?logo=jupyter)
+**Data & ML**
+- NumPy
+- Pandas
+- Scikit-learn
 
-</div>
+**Deep Learning**
+- TensorFlow
+- PyTorch
+
+**LLM & AI**
+- Hugging Face
+- LLM APIs
+- RAG concepts
+- Agent frameworks
+
+**Backend & API**
+- Flask
+- FastAPI
+- Uvicorn
+- REST APIs
+
+**API Testing**
+- Swagger
+- Postman
+
+**Development**
+- Jupyter Notebook
+- VS Code
+- Git
+- GitHub
+
+**Data Platforms**
+- Kaggle
 
 ---
 
-## ✅ Progress checklist
+## 📊 Datasets Worked With
+
+- ❤️ Heart Disease Dataset
+- 🌸 Iris Dataset
+- 🚢 Titanic Dataset
+- 🚗 Car Price Dataset
+- 💼 Hiring Dataset
+
+Used for data analysis, preprocessing, visualization, feature engineering, model training, and evaluation.
+
+---
+
+## 🧪 Practical Work
+
+- Hands-on labs covering full ML workflows
+- Deep learning experiments
+- LLM-based applications
+- API development and testing
+- RAG-based systems
+- Working toward a capstone project combining multiple AI technologies
+
+---
+
+## 🎯 Current Focus
+
+- Moving beyond single ML models
+- Building complete AI applications
+- Combining ML/DL with LLMs, RAG, and agents
+- Connecting AI systems through APIs
+- Solving real-world problems end to end
+
+---
+
+## ✅ Progress Checklist
 
 - [x] Python basics
-- [x] Data analysis
-- [ ] Machine Learning
-- [ ] Deep Learning
-- [ ] LLMs & Generative AI
-- [ ] RAG
-- [ ] AI Agents
+- [x] Data analysis and EDA
+- [x] Machine Learning
+- [x] Deep Learning fundamentals
+- [x] LLMs and prompt engineering
+- [x] RAG
+- [ ] AI Agents (in progress)
+- [ ] Capstone project
 
 ---
 
 <div align="center">
 
-### 🚀 Learning by building.
-**One lab. One idea. One step closer.**
+### 🚀 Just here to learn and build.
 
 </div>
