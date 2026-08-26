@@ -2,105 +2,93 @@
 
 # 🤖 AI Bootcamp
 
-### Learn • Build • Experiment • Grow
+**My learning journey in AI & Machine Learning — one lab at a time.**
 
-<p>
-  <i>A hands-on record of my journey through Artificial Intelligence and Machine Learning.</i>
-</p>
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Learning-brightgreen)
+![Made with](https://img.shields.io/badge/Made%20with-☕%20and%20debugging-orange)
 
 </div>
 
 ---
 
-## 📌 Purpose
+## 👋 What is this?
 
-This repository serves as a record of my learning journey during the **AI Bootcamp**, documenting hands-on labs, experiments, and projects while building practical understanding of Artificial Intelligence and Machine Learning concepts.
+This is where I keep everything I build while learning AI — notebooks, code, small experiments, and notes.
 
-Rather than just learning the theory, this repository focuses on **implementing concepts, experimenting with data, and turning ideas into working solutions.**
-
----
-
-## 🚀 Topics Covered
-
-<table>
-  <tr>
-    <td>🐍 <b>Python & Data Science</b></td>
-    <td>📊 <b>Data Analysis & Visualization</b></td>
-  </tr>
-  <tr>
-    <td>🧠 <b>Machine Learning</b></td>
-    <td>🔬 <b>Deep Learning</b></td>
-  </tr>
-  <tr>
-    <td>✨ <b>LLMs & Generative AI</b></td>
-    <td>🔎 <b>Retrieval-Augmented Generation (RAG)</b></td>
-  </tr>
-  <tr>
-    <td>🤖 <b>AI Agents</b></td>
-    <td>⚙️ <b>Practical AI Workflows</b></td>
-  </tr>
-</table>
+I'm not just reading about AI. I'm trying things, breaking things, and figuring out how they work.
 
 ---
 
-## 📊 Datasets Used
+## 🗂️ What's inside
 
-Throughout the bootcamp, different datasets are used to practice **data preprocessing, exploration, visualization, feature engineering, and machine learning**.
+| Folder | Topic |
+|---|---|
+| `ml/` | Machine Learning basics |
+| `deep/` | Deep Learning & neural networks |
+| `llm/` | Large Language Models & Generative AI |
+| `rag/` | Retrieval-Augmented Generation |
+| `agents/` | AI Agents |
 
-Some of the datasets included in this repository are:
-
-- ❤️ Heart Disease Dataset
-- 🌸 Iris Dataset
-- 🚢 Titanic Dataset
-- 🚗 Car Price Dataset
-- 💼 Hiring Dataset
-
-> 📌 Additional datasets may be added as the bootcamp progresses.
+Each folder has its own notebook, code, and notes.
 
 ---
 
-## 📂 Repository Structure
+## 📊 Datasets I practice with
 
-Each lab is organized in its respective folder and contains the related:
+<div align="center">
 
-- 📓 Jupyter Notebooks
-- 💻 Python code
-- 📊 Datasets & analysis
-- 🧪 Experiments
-- 📝 Notes and resources
+❤️ Heart Disease &nbsp;|&nbsp; 🌸 Iris &nbsp;|&nbsp; 🚢 Titanic &nbsp;|&nbsp; 🚗 Car Price &nbsp;|&nbsp; 💼 Hiring
 
-The repository will continue to grow as new concepts, labs, and projects are completed.
+</div>
+
+More will be added as I go!
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🎮 Fun stats
 
-`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `TensorFlow` • `PyTorch`  
-`Jupyter Notebook` • `Git` • `GitHub` • `VS Code`
+<div align="center">
 
----
+| 🧠 Labs Done | ☕ Coffee Used | 🐛 Bugs Fixed | 💡 "Aha" Moments |
+|:---:|:---:|:---:|:---:|
+| Growing | Lots | Too many to count | Daily |
 
-## 🌱 Learning Journey
-
-This repository represents an ongoing journey — from **fundamental programming and data analysis to machine learning, deep learning, and modern AI technologies.**
-
-Each lab is a step toward understanding how AI can be built and applied to **real-world problems**.
+</div>
 
 ---
 
-## 📄 License
+## 🛠️ Tools I use
 
-This repository is intended for **educational purposes**.
+<div align="center">
 
-Feel free to explore the code, experiment with the notebooks, and learn from the implementations.
+![Python](https://img.shields.io/badge/-Python-000?logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-000?logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000?logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-000?logo=scikitlearn)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?logo=tensorflow)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?logo=jupyter)
+
+</div>
+
+---
+
+## ✅ Progress checklist
+
+- [x] Python basics
+- [x] Data analysis
+- [ ] Machine Learning
+- [ ] Deep Learning
+- [ ] LLMs & Generative AI
+- [ ] RAG
+- [ ] AI Agents
 
 ---
 
 <div align="center">
 
-### 🚀 Learning by Building
-
-<i>One lab, one experiment, one concept at a time.</i>
+### 🚀 Learning by building.
+**One lab. One idea. One step closer.**
 
 </div>
-
